@@ -2,7 +2,7 @@
 - 👀 I’m interested in SOLVING REAL WORLD PROBLEMS 
 - 🌱 I’m currently learning and understanding PYTHON
 - 💞️ I’m looking to collaborate on different real life projects
-- 
+
 
 
 <!---
